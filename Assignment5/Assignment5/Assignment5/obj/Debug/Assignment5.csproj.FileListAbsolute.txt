@@ -1,0 +1,8 @@
+C:\.Net training\c#\Assignment5\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+C:\.Net training\c#\Assignment5\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+C:\.Net training\c#\Assignment5\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+C:\.Net training\c#\Assignment5\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.AssemblyReference.cache
+C:\.Net training\c#\Assignment5\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.SuggestedBindingRedirects.cache
+C:\.Net training\c#\Assignment5\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\.Net training\c#\Assignment5\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+C:\.Net training\c#\Assignment5\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
